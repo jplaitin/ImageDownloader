@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_network_message">There is no network connection available. Network connection is required.</string>
+    <string name="no_network_title">No network connection</string>
+    <string name="no_network_button_label">Show network settings</string>
+    <string name="no_network_button_finish">Finish</string>
+</resources>

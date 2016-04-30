@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="url_tip">Write down image url here</string>
+    <string name="random_url">Random Image Url</string>
+    <string name="download">Download</string>
+    <string name="view_images">View images</string>
+    <string name="title_activity_view_images">ViewImages</string>
+    <string name="download_failed">Download failed</string>
+    <string name="download_success">Download complete. Download URI:</string>
+    <string name="image_rotated">Image rotated 180 degrees</string>
+</resources>
